@@ -3,3 +3,6 @@ https://www.anysearch.com/home
 
 ## 2.codex桌宠插件：妙妙妙
 https://petdex.dev/
+
+## 3.基于html的PPT生成skill
+https://github.com/op7418/guizang-ppt-skill
